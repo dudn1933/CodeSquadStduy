@@ -10,4 +10,4 @@ CodeSquadStduy
 
 ### call stack의 의미
 - call stack는 실행할 함수를 차곡차곡 쌓는 역할을 한다. 이 구문을 통해 확인할 수 있다.
-[link]:https://ibb.co/ZGnwLTY
+<img src ="https://ibb.co/ZGnwLTY">
